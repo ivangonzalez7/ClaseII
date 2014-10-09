@@ -1,4 +1,4 @@
-package edu.upc.eetac.dsa.rgonzalezEjercicio13;
+package edu.upc.eetac.dsa.Ivangonzalez7.Ejercicio13;
 
 import java.io.BufferedReader;
 import java.io.IOException;
